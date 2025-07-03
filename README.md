@@ -1,9 +1,9 @@
 # form_validator_plus
 
+Pacote de validadores reutilizáveis para campos de formulário (email, senha, obrigatório, etc). Compatível com Dart e Flutter.
+
 [![pub package](https://img.shields.io/pub/v/form_validator_plus.svg)](https://pub.dev/packages/form_validator_plus)
 [![Dart](https://img.shields.io/badge/Dart-%3E%3D3.0.0-blue)](https://dart.dev/)
-
-Valide campos de formulário de forma simples, reutilizável e sem dependências de interface gráfica. Compatível com Dart puro e Flutter.
 
 ## Sumário
 - [Instalação](#instalação)
