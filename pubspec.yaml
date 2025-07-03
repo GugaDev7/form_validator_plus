@@ -1,5 +1,5 @@
 name: form_validator_plus
-version: 0.1.0
+version: 0.0.1
 
 description: >-
   Pacote de validadores reutilizáveis para campos de formulário (email, senha, obrigatório, etc). Compatível com Dart e Flutter.
@@ -15,8 +15,6 @@ dependencies:
 
 dev_dependencies:
   test: ^1.24.0
-
-publish_to: 'none'
 
 flutter:
   uses-material-design: true
