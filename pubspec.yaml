@@ -1,0 +1,22 @@
+name: form_validator_plus
+version: 0.1.0
+
+description: >-
+  Pacote de validadores reutilizáveis para campos de formulário (email, senha, obrigatório, etc). Compatível com Dart e Flutter.
+
+homepage: https://github.com/GugaDev7/form_validator_plus
+repository: https://github.com/GugaDev7/form_validator_plus
+issue_tracker: https://this-is-gustavo.vercel.app/#/contact
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.24.0
+
+publish_to: 'none'
+
+flutter:
+  uses-material-design: true
